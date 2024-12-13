@@ -1,8 +1,8 @@
-# React + Vite
+This is the assignment of the internship for WeAnalyz Technologies Private Limited.
+I have made pages of Login, Singup, Forget-password, Dashboard and create ticked page for a user's view with the help of figma design but did few changes in the ui by Material UI library.
+Initially, you will ve rendered to the dashboard page, for ticked creation- click on New Ticket button left navigation pane. For pages like login, click on person icon on the top right corner.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link for the deployed website: https://we-analyze-tech.vercel.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hope this will give you an idea about my expertise and skills in MERN. I wasn't able to add database due to ongoing exams and shortage of time.
