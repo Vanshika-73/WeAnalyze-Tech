@@ -9,7 +9,7 @@ import React from "react";
 import AttachFileIcon from '@mui/icons-material/AttachFile';
 const Dashboard = () => {
     return (
-        <Box sx={{ display: 'flex', height: '90.6vh' }}>
+        <Box sx={{ display: 'flex', height: '90.6vh',p:2 }}>
             <Box sx={{ flexGrow: 1, backgroundColor: '#fff',}}>
                 <Typography variant="h2" sx={{ color: 'black', textAlign: 'center', mt: 10 }}>Dashboard</Typography>
                 {/* Dashboard Cards */}

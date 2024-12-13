@@ -4,7 +4,7 @@ import AttachFileIcon from '@mui/icons-material/AttachFile';
 
 const CreateTicket = () => {
     return (
-        <Box sx={{ display: 'flex', height: '90.6vh',marginBottom:'50px'}}>
+        <Box sx={{ display: 'flex', height: '90.6vh',marginBottom:'50px',p:2}}>
             <Box sx={{ flexGrow: 1, backgroundColor: '#fff'  }}>
                 <Typography variant="h2" sx={{ color: 'black', textAlign: 'center', mt: 7,mb:2 }}>Create Ticket</Typography>
 
